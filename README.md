@@ -11,3 +11,4 @@ This repository contains a Jupyter Notebook that focuses on the cleaning and tra
 
 The notebook serves as a comprehensive guide for anyone looking to understand how to clean and transform complex, real-world data into a more usable format.
 ([view notebook here](https://nbviewer.org/github/JustinLzc/Data-Cleaning-and-Transformation/blob/main/Indeed_Job_Listings_Data_Cleaning_and_Transformation.ipynb))
+![image](https://github.com/JustinLzc/Data-Cleaning-and-Transformation/assets/93061811/76f67a44-39d2-4ba2-9027-e1c8a9eb8e30)
