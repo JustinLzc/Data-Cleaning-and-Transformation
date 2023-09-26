@@ -17,13 +17,6 @@ The notebook serves as a comprehensive guide for anyone looking to understand ho
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Map Title</title>
-    <style>
-        h1 {
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-    </style>
 </head>
 <body>
     <h1>Locations of Data Science Job Openings in the UK</h1>
