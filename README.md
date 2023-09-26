@@ -10,4 +10,4 @@ This repository contains a Jupyter Notebook that focuses on the cleaning and tra
 * __Enriching with Geolocation Data__: Using Geopy to fetch geographic coordinates of job locations and visualizing them with Folium, adding a geospatial dimension to the dataset.
 
 The notebook serves as a comprehensive guide for anyone looking to understand how to clean and transform complex, real-world data into a more usable format.
-([view notebook here](https://nbviewer.org/github/JustinLzc/DataPortfolioProjects/blob/main/Data_clean.ipynb))
+([view notebook here](https://nbviewer.org/github/JustinLzc/Data-Cleaning-and-Transformation/blob/main/Indeed_Job_Listings_Data_Cleaning_and_Transformation.ipynb))
